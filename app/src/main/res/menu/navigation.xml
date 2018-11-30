@@ -3,18 +3,22 @@
 
     <item
         android:id="@+id/nav_p1"
+        android:icon="@drawable/chicken_icon"
         android:title="Puzzle 1"
         />
 
     <item
         android:id="@+id/nav_p2"
+        android:icon="@drawable/cow_icon"
         android:title="Puzzle 2" />
 
     <item
         android:id="@+id/nav_p3"
+        android:icon="@drawable/goat_icon"
         android:title="Puzzle 3"/>
     <item
         android:id="@+id/nav_ans"
+        android:icon="@drawable/pig_icon"
         android:title="Answer"
         />
 </menu>
